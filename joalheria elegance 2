@@ -1,11 +1,17 @@
 <!DOCTYPE html>
-<html>
-<h1>Sobre a Joalheria Elegance</h1>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Joalheria Elegance</title>
+    </head>
+    <body>
+        <h1>Sobre a Joalheria Elegance</h1>
 
-<p>Localizada no centro da cidade a <strong>Joalheria Elegance</strong> traz para o mercado o que há de melhor para a sua elegancia e estilo. 
-Fundada em 2024, a Joalheria Elegance já é destaque na cidade e conquista novos clientes a cada dia.</p>
+    <p>Localizada no centro da cidade a <strong>Joalheria Elegance</strong> traz para o mercado o que há de melhor para a sua elegancia e estilo. 
+   Fundada em 2024, a Joalheria Elegance já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
-<p><em>Nossa missão é: <strong>"Proporcionar jóias de qualidade aos clientes"</strong>.</em></p>
+    <p><em>Nossa missão é: <strong>"Proporcionar jóias de qualidade aos clientes"</strong>.</em></p>
 
-<p>Oferecemos anéis, colares, relógios, brincos, alianças de ouro ou de prata.</p>
-
+    <p>Oferecemos anéis, colares, relógios, brincos, alianças de ouro ou de prata.</p>
+   </body>
+</html>
